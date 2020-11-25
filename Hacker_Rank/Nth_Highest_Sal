@@ -1,9 +1,9 @@
 -- creating Employee table in Oracle
-CREATE TABLE Employee (name varchar(10), salary int);
+CREATE TABLE Employee_1 (name varchar(10), salary int);
 
 -- inserting sample data into Employee table
-INSERT INTO Employee VALUES ('Rick', 3000);
-INSERT INTO Employee VALUES ('John', 4000);
-INSERT INTO Employee VALUES ('Shane', 3000);
-INSERT INTO Employee VALUES ('Peter', 5000);
-INSERT INTO Employee VALUES ('Jackob', 7000);
+INSERT INTO Employee_1 VALUES ('Rick', 3000);
+INSERT INTO Employee_1 VALUES ('John', 4000);
+INSERT INTO Employee_1 VALUES ('Shane', 3000);
+INSERT INTO Employee_1 VALUES ('Peter', 5000);
+INSERT INTO Employee_1 VALUES ('Jackob', 7000);
